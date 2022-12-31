@@ -1,0 +1,45 @@
+.section{
+    width: cover;
+    background-color: rgba(0, 0, 0, 0.897);
+    height: 550px;
+    color: white;
+    text-align: center;
+    padding-top: 100px;   
+    
+}
+
+.informed{
+    font-size: 80px;
+    font-weight: bold; 
+    letter-spacing: -6px; 
+    margin-bottom: -28px;
+   
+}
+
+.inspired{
+    font-size: 80px;
+    font-weight: bold;
+    
+    letter-spacing: -6px; 
+       
+}
+
+.line{
+    padding: 6px;
+    background-color: red;
+    margin-left: 400px; 
+    margin-right: 400px;
+    margin-top: -13px;
+    
+}
+
+.peragraph{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+
+
+
+
